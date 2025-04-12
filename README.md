@@ -144,7 +144,8 @@ y_prednew
 
 
 ## Output:
-![6](https://github.com/user-attachments/assets/11a4dc07-b5a8-446e-b921-e2e9333ec4fc)
+![Uploading 6@1.png…]()
+![Uploading 6@2.png…]()
 
 
 ## Result:
